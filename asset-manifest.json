@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/karlaleland/static/css/main.65f46f43.css",
+    "main.js": "/karlaleland/static/js/main.d21b89c6.js",
+    "static/media/hero.jpg": "/karlaleland/static/media/hero.d210aae808bdef21bb46.jpg",
+    "static/media/wmna.jpg": "/karlaleland/static/media/wmna.950c04c7c3c0e7aee5d1.jpg",
+    "static/media/karla": "/karlaleland/static/media/karla.a151009a17db42d2252f",
+    "static/media/ameriflex.webp": "/karlaleland/static/media/ameriflex.60347ed288d76e81c4fd.webp",
+    "static/media/salina.png": "/karlaleland/static/media/salina.7194c194b09105c5a2a9.png",
+    "static/media/nascar.svg": "/karlaleland/static/media/nascar.70837c0553402b83e3980205ffea7526.svg",
+    "index.html": "/karlaleland/index.html",
+    "main.65f46f43.css.map": "/karlaleland/static/css/main.65f46f43.css.map",
+    "main.d21b89c6.js.map": "/karlaleland/static/js/main.d21b89c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f46f43.css",
+    "static/js/main.d21b89c6.js"
+  ]
+}
